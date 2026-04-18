@@ -44,7 +44,8 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_branch: gh-pages
         publish_dir: allure-history
-        
+        force_orphan: true
+
     - uses: actions/upload-artifact@v4
       if: ${{ !cancelled() }}
       with:
