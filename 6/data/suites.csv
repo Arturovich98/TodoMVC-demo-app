@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","231","Create one first task","chromium","Sun Apr 19 06:32:58 UTC 2026","passed","Sun Apr 19 06:32:58 UTC 2026","TodoMVC functionality","todo-page-tests.spec.ts","",""
+"","350","Create two tasks and remove second one","chromium","Sun Apr 19 06:32:58 UTC 2026","passed","Sun Apr 19 06:32:59 UTC 2026","TodoMVC functionality","todo-page-tests.spec.ts","",""
+"","438","Create task and mark it as done","chromium","Sun Apr 19 06:32:59 UTC 2026","passed","Sun Apr 19 06:32:59 UTC 2026","TodoMVC functionality","todo-page-tests.spec.ts","",""
+"","734","Redirect to original app links","chromium","Sun Apr 19 06:32:57 UTC 2026","passed","Sun Apr 19 06:32:57 UTC 2026","TodoMVC functionality","todo-page-tests.spec.ts","",""
